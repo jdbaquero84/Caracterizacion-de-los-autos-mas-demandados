@@ -1,7 +1,7 @@
 # Caracterización de los Autos Más Demandados
 
 <div align="center">
-    <img src="https://github.com/jdbaquero84/Caracterizacion-de-los-autos-mas-demandados/commit/de401efc6ed1ddccf4b9ac58613d7c4c2787b018" alt="Descripción de la Imagen 1" width="400"/>
+    <img src="https://github.com/jdbaquero84/Caracterizacion-de-los-autos-mas-demandados/blob/main/imagen1.jpg" alt="Descripción de la Imagen 1" width="400"/>
     <img src="https://github.com/jdbaquero84/Caracterizacion-de-los-autos-mas-demandados/blob/main/imagen2.jpg" alt="Descripción de la Imagen 2" width="400"/>
 </div>
 
