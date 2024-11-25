@@ -9,6 +9,17 @@
 
 El objetivo de este proyecto es asesorar a una marca de autos que ingresa a un mercado local, detallando las características que determinan el precio de los vehículos. Se han implementado tres modelos de Machine Learning para este análisis: un modelo Logit, un modelo Probit, un árbol de clasificación y un modelo de regresión. Estos modelos permiten calcular el precio de un vehículo en función de las características que el mercado valora.
 
+## Tecnologías Utilizadas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+
+
 ## Modelos Implementados
 
 1. **Modelo Logit**:
